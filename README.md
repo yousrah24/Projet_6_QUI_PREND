@@ -3,7 +3,9 @@
 
 Dans ce projet, nous devons programmer le jeu  “6-qui-prend” afin de permettre à des joueurs de réaliser une partie de bout en bout . 
 Ce dernier est un jeu de cartes dont une partie peut opposer de 2 à 10 joueurs, créé en 1994  par Wolfgang Kramer. 
+
 Il comporte 104 cartes portant le numéro de 1 à 104 et un nombre de “tête de boeufs" compris entre 1 et 7 , ce nombre représente une pénalité associée à la carte. Le nombre de têtes de bœuf se distribue de cette façon, les cartes se terminant par 5 valent 2, celles terminant par 0 valent 3, celles dont son numéro est formé par deux chiffres égaux valent 5 et la carte de numéro 55 vaut 7 car elle vaut 2 et 5 en même temps. 
+
 Une partie de jeu se déroule de cette façon, le paquet de cartes est mélangé et 10 cartes sont attribuées à chaque joueur. Les quatres premières restantes sont disposées sur la table de face visibles sous la forme d’une colonne formant quatre séries. Les cartes restantes seront mises de côté et ne seront pas utilisées.
 A chaque tour de jeu, chaque joueur choisit une de ses cartes et la pose face cachée devant lui. Une fois que tous les joueurs ont posé leur carte, on les retourne pour les rendre visible et les cartes sont posées sur les quatre séries selon l'ordre croissant des numéros des cartes posé par les joueurs.
 
